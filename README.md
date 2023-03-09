@@ -1,3 +1,3 @@
-# myBeginnerWebsiteProjects
+# my_codecademy_website_projects
 
-This is the website created by me while doint Codecademy course on CSS.
+This branch contains websites, which I build while studyng on the Codecademy.
